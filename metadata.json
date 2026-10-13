@@ -1,0 +1,6 @@
+{
+  "name": "Extrator de Relatórios PDF",
+  "description": "Extrai dados de execução contábil e demonstrações financeiras do relatório AF5110 - 16.1.3.9, agrupando contas por Tipo, Detalhe, Grupo e Subgrupo com validação cruzada de totais em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
